@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "912698402432",
+    "firebase_url": "https://androidredclicker.firebaseio.com",
+    "project_id": "androidredclicker",
+    "storage_bucket": "androidredclicker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912698402432:android:7ecd0688406c9538",
+        "android_client_info": {
+          "package_name": "com.p102.RedClicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912698402432-bnebfgperko6h898o3q48b03ecl08u0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABS622ZenjdvGKstMkT2FuyXALKerzBTs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
